@@ -1,3 +1,9 @@
+#Live
+
+hosted using windows IIS7 running IISnode as module for nodejs
+http://blog.supermobile.dk
+
+
 #Single Page WebApp#
 
 SPA WebApp using Ember MVC on the client-side
