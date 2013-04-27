@@ -1,0 +1,17 @@
+Module Refactor:
+- Refactor code HTTP Header as module
+- Refactor data to be served from file
+
+Express REST:	
++ HTTP GET for SELECT @done (2013-04-24 22:59)
+- HTTP PUT for update
+
+JOSN Database:
+- install redis module
+- Test CRUD using redis
+
+Data coming from DB:
+- quotes read from file
+- quotes read from Redis
+
+

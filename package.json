@@ -1,0 +1,10 @@
+{
+	"name": "Ember SinglePageApp"
+	,	"description": "Ember SinglePageApp Server"
+	,	"version": "0.0.2"
+	,	"dependencies": {
+			"express": "3.0.0"
+			, "request": "2.12.0"
+			,	"socket.io": "0.9.13"
+		}
+}
